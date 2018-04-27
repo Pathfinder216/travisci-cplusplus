@@ -44,5 +44,5 @@ bool isBalanced(const std::string &text){
     }
   }
   
-  return unmatched.empty();
+  return true;
 }
