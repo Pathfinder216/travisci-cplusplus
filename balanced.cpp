@@ -14,7 +14,11 @@ bool isBalanced(const std::string &text){
     c = text[i];
     switch(c){
     case '[':
+      unmatched.push(c);
+      break;
     case '{':
+      unmatched.push(c);
+      break;
     case '(':
       unmatched.push(c);
       break;
