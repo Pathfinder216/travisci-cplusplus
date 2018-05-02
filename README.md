@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Pathfinder216/travisci-cplusplus.svg?branch=master)](https://travis-ci.org/Pathfinder216/travisci-cplusplus)
